@@ -1,4 +1,5 @@
 import React from 'react';
+import GuitarNeck from './GuitarNeck';
 
 function App() {
   return (
